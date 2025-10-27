@@ -1,5 +1,12 @@
 # 📈 Quantitative Analysis of Risk & Return (2022–2025)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
+![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen.svg)
+![Data Source](https://img.shields.io/badge/Data%20Source-Yahoo%20Finance-yellow.svg)
+
+
 ## 🧭 Project Overview
 This project explores **risk vs return dynamics** across major U.S. sectors — technology, finance, and energy — using historical market data from 2022–2025.  
 The goal is to visualize and quantify how volatility, returns, and correlations influence portfolio construction decisions.
