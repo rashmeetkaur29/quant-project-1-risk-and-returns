@@ -5,6 +5,11 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
 ![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen.svg)
 ![Data Source](https://img.shields.io/badge/Data%20Source-Yahoo%20Finance-yellow.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/rashmeetkaur29/quant-project-1-risk-and-returns)
+![GitHub repo size](https://img.shields.io/github/repo-size/rashmeetkaur29/quant-project-1-risk-and-returns)
+![GitHub issues](https://img.shields.io/github/issues/rashmeetkaur29/quant-project-1-risk-and-returns)
+![GitHub stars](https://img.shields.io/github/stars/rashmeetkaur29/quant-project-1-risk-and-returns?style=social)
+
 
 
 ## 🧭 Project Overview
