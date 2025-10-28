@@ -73,8 +73,26 @@ Diversification across sectors (Tech, Finance, Energy) delivers a **balanced por
 
 ---
 
-## 🧩 Next Steps
-- Add **Sharpe ratio & beta analysis**
-- Expand to **10-asset portfolio optimization**
-- Deploy via **Streamlit dashboard**
+## 📈 Risk Metrics: Sharpe Ratio & Beta (2022–2025)
+
+| Asset | Sharpe Ratio | Beta (vs S&P 500) | Interpretation |
+|:------|:-------------:|:-----------------:|:----------------|
+| **JPM** | 0.740 | 0.903 | Strongest risk-adjusted performance with below-market volatility. |
+| **MSFT** | 0.467 | 1.163 | Balanced growth; tracks market slightly above 1:1 sensitivity. |
+| **AAPL** | 0.378 | 1.252 | Higher market exposure, consistent long-term growth. |
+| **XLE** | 0.550 | 0.669 | Defensive sector ETF; stabilizes portfolio during drawdowns. |
+| **TSLA** | 0.299 | 2.057 | High-risk, high-beta asset — momentum-driven growth exposure. |
+
+### 🧩 Insight
+- **Sharpe Ratio** quantifies return per unit of volatility → higher = more efficient use of risk.  
+- **Beta** measures systematic risk vs. the market → higher = more sensitive to macro movements.  
+Combining these helps identify **diversifiers (low β, decent Sharpe)** and **return drivers (high Sharpe, moderate β)** for better portfolio construction.
+
+---
+
+## 🚀 Next Steps
+- Expand the analysis to a **10-asset portfolio**, incorporating cross-sector diversification.  
+- Implement **portfolio optimization** using Modern Portfolio Theory (Markowitz Efficient Frontier).  
+- Introduce **expected return forecasting** and **covariance matrix modeling** for smarter allocation.  
+- Build an interactive **Streamlit dashboard** to visualize portfolio risk–return trade-offs dynamically.  
 
